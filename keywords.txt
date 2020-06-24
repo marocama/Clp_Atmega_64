@@ -1,0 +1,11 @@
+Clp_Atmega_128 KEYWORD1
+pinMode KEYWORD2
+digitalWrite KEYWORD2
+digitalReverse KEYWORD2
+digitalRead KEYWORD2
+rs485Config KEYWORD2
+rs232Config KEYWORD2
+analogConfig KEYWORD2
+analogRead KEYWORD2
+eepromWrite KEYWORD2
+eepromRead KEYWORD2
