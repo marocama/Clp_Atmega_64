@@ -16,27 +16,27 @@ Algumas definições são feitas por padrão pela biblioteca para facilitar seu 
 
 Tais definições podem ser utilizadas no decorrer do código como é mostrado nos `exemplos`.
 
-⋅⋅* `E1`: Entrada 1
-⋅⋅* `E2`: Entrada 2
-⋅⋅* `E3`: Entrada 3
-⋅⋅* `E4`: Entrada 4
-⋅⋅* `E5`: Entrada 5
-⋅⋅* `E6`: Entrada 6
-⋅⋅* `E7`: Entrada 7
-⋅⋅* `E8`: Entrada 8
-⋅⋅* `E9`: Entrada 9
-⋅⋅* `E10`: Entrada 10
-⋅⋅* `E11`: Entrada 11
-⋅⋅* `E12`: Entrada 12
+- `E1`: Entrada 1
+- `E2`: Entrada 2
+- `E3`: Entrada 3
+- `E4`: Entrada 4
+- `E5`: Entrada 5
+- `E6`: Entrada 6
+- `E7`: Entrada 7
+- `E8`: Entrada 8
+- `E9`: Entrada 9
+- `E10`: Entrada 10
+- `E11`: Entrada 11
+- `E12`: Entrada 12
 
-⋅⋅* `S1`: Saída 1
-⋅⋅* `S2`: Saída 2
-⋅⋅* `S3`: Saída 3
-⋅⋅* `S4`: Saída 4
-⋅⋅* `S5`: Saída 5
-⋅⋅* `S6`: Saída 6
-⋅⋅* `S7`: Saída 7
-⋅⋅* `S8`: Saída 8
+- `S1`: Saída 1
+- `S2`: Saída 2
+- `S3`: Saída 3
+- `S4`: Saída 4
+- `S5`: Saída 5
+- `S6`: Saída 6
+- `S7`: Saída 7
+- `S8`: Saída 8
 
 ### Funções disponíveis
 
